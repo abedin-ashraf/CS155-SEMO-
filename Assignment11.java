@@ -9,5 +9,6 @@ public class Assignment11 {
         System.out.println("Welcome to Java.");
         System.out.println("Welcome to Computer Science.");
         System.out.println("Programming is fun.");
+        System.out.println("Welcome to SEMO");
     }
 }
