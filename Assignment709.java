@@ -1,9 +1,13 @@
-//Mohammed Nurul Abedin Ashraf
-//CS-155(The Fundamental of Computer Programming)
-//Dr. Art Kazmierczak (Dr. K)
-//10/14/2022
-//Assignment 7.9
-
+/*
+ (Find the smallest element) Write a method that finds the smallest element in an 
+array of double values using the following header:
+        public static double min(double[] array)
+Write a test program that prompts the user to enter 10 numbers, invokes this 
+method to return the minimum value, and displays the minimum value. Here is a 
+sample run of the program:
+    Enter 10 numbers: 1.9 2.5 3.7 2 1.5 6 3 4 5 2
+    The minimum number is 1.
+ */
 import java.util.Scanner;
 public class Assignment709 {
 
