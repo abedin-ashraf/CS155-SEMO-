@@ -29,7 +29,7 @@
 
 public class Assignment908 {
     public static void main(String[] args) {
-        Fan fan1 = new Fan(Fan.FAST, 10, "Yellow", true);
+        Fan fan1 = new Fan(Fan.FAST, 10, "yellow", true);
         System.out.println(fan1.toString());
         Fan fan2 = new Fan(Fan.MEDIUM,5, "blue", false);
         System.out.println(fan2.toString());
